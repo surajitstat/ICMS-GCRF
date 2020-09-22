@@ -6,8 +6,8 @@
 
 ICMS, Edinburgh - virtual workshop
 
-![](https://www.ukri.org/ukri/assets/Image/SiteImages/GCRFfullcolour.jpg){:height="200px"} |
-![](https://www.maths.ed.ac.uk/~djordan/ICMS_logo.jpg){:height="200px"}
+![](https://www.ukri.org/ukri/assets/Image/SiteImages/GCRFfullcolour.jpg){:height="100px"} |
+![](https://www.maths.ed.ac.uk/~djordan/ICMS_logo.jpg){:height="100px"}
 
 # Workshop Goals
 
