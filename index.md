@@ -4,10 +4,17 @@
 
 # Venue: 
 
-ICMS, Edinburgh - virtual workshop
 
 ![](https://www.ukri.org/ukri/assets/Image/SiteImages/GCRFfullcolour.jpg){:height="100px"} |
 ![](https://www.maths.ed.ac.uk/~djordan/ICMS_logo.jpg){:height="100px"}
+
+ICMS, Edinburgh - virtual workshop - Zoom link [https://us02web.zoom.us/j/83559251143](https://us02web.zoom.us/j/83559251143)
+
+# Workshop details
+- [Main workshop page](https://www.icms.org.uk/V_FDMSGCRF.php)
+- [Detailed Program and Dynamic Documents)](https://drive.google.com/file/d/1NL6lUb1NEpmy-P6kKpPlrg1_P70gHGXs/view?usp=sharing)
+- [Dynamic Notes](https://drive.google.com/file/d/1ZAealR5HQKjl6Z7sd4PbVGSyozyYu6fc/view?usp=sharing)
+
 
 # Workshop Goals
 
@@ -36,77 +43,4 @@ Building cross-connections throughout the workshop, through the exchange of stat
 * Trotter, Dr CL	University of Cambridge
 * Scaparra, Professor MP	University of Kent
 
-
-# Tentative Program
-
-> ## Day 1 (19.10.2020)
-> 
-> ### Session 1 (9:30-11:00) 
->   - Welcome 
->   - External speaker 1
->   
-> ### Session 2 (11:15-12:30)
->   - Updates from research grant
->   
-> 
-> ### Session 3 (14:00-15:30)
->   - Discussion Break out session
->   	- By region?
-> 
-> 
-> 
-> ## Day 2 (20.10.2020)
-> ### Session 1 (9:30-11:00)
-> - Updates from capacity building grants
->   
-> ### Session 2 (11:15-12:30)
->   - External speaker 2
->   - External speaker 3
-> 
-> 
->  
-> ### Session 3 (14:00-15:30)
->  - Discussion Break out session
->   	- By methods?
-> 
-> 
-> 
-> ## Day 3 (21.10.2020)
-> ### Session 1 (9:30-11:00)
->   - External speaker 4
->   - External speaker 5
->   - External speaker 6
-> 
->      
-> ### Session 2 (11:15-12:30)
->    - Discussion idenitifying future grants
->    
-> ### Session 3 (14:00-15:30)
->    - Conclusion and future plans
-
-![](./logo3.png)
-
-
-
-Identified Themes:
-==================
-
-*   Area 1 - Air pollution
- 
-*   Area 2 - Emergency Management
- 
-*   Area 3 - Water Quality
-
-*   Area 4 - Public Health and Infectious diseases
-
-Identified Regions:
-===================
-
--   Africa,
-
--   India,
-
--   SE Asia
-
--   South America?
 
