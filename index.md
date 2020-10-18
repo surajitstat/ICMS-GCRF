@@ -12,7 +12,7 @@ ICMS, Edinburgh - virtual workshop - Zoom link [https://us02web.zoom.us/j/835592
 
 # Workshop details
 - [Main workshop page](https://www.icms.org.uk/V_FDMSGCRF.php)
-- [Detailed Program and Dynamic Documents)](https://docs.google.com/document/d/e/2PACX-1vR81PuCRPZ3OEX1LHjn3z6QzCOCKxFxc5Gc1vm0iqcr9a6bi60j_iDdZQ9x9IqevA/pub)
+- [Detailed Program and Dynamic Documents](https://docs.google.com/document/d/e/2PACX-1vR81PuCRPZ3OEX1LHjn3z6QzCOCKxFxc5Gc1vm0iqcr9a6bi60j_iDdZQ9x9IqevA/pub)
 - [Dynamic Notes](https://drive.google.com/file/d/1ZAealR5HQKjl6Z7sd4PbVGSyozyYu6fc/view?usp=sharing)
 
 
